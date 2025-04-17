@@ -1,3 +1,9 @@
-## Hey 👋
+# 👋 Heya, I'm [Milad]!
 
-Sydney, Australia 🇦🇺
+🎓 University of Sydney Student  
+🤖 Passionate about **Machine Learning**  
+🌐 Currently interested in **Web Development**
+
+🌍 Check out my website: [miladggg.com](https://miladggg.com/)
+
+Let's connect! 👇

@@ -1,4 +1,4 @@
-# 👋 Heya, I'm [Milad]!
+# 👋 Heya, I'm Milad!
 
 🎓 University of Sydney Student  
 🤖 Passionate about **Machine Learning**  
